@@ -1,4 +1,4 @@
-package com.fariha.userservice.api.resource;
+package com.fariha.userservice.rest.api;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

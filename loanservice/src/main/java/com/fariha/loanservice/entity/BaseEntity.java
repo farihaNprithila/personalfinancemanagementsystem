@@ -1,4 +1,4 @@
-package com.fariha.loanservice.entity;
+package com.fariha.loans.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.EntityListeners;

@@ -1,6 +1,6 @@
-package com.fariha.loanservice.service;
+package com.fariha.loans.service;
 
-import com.fariha.loanservice.dto.LoansDto;
+import com.fariha.loans.dto.LoansDto;
 
 public interface ILoansService {
 

@@ -1,4 +1,4 @@
-package com.fariha.loanservice.constants;
+package com.fariha.loans.constants;
 
 public final class LoansConstants {
 

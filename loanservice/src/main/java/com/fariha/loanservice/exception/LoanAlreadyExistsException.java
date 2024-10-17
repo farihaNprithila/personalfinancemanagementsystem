@@ -1,4 +1,4 @@
-package com.fariha.loanservice.exception;
+package com.fariha.loans.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

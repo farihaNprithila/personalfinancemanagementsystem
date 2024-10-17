@@ -1,4 +1,4 @@
-package com.fariha.loanservice.dto;
+package com.fariha.loans.dto;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.validation.constraints.NotEmpty;

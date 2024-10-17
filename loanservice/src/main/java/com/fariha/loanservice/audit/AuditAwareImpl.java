@@ -1,4 +1,4 @@
-package com.fariha.loanservice.audit;
+package com.fariha.loans.audit;
 
 import org.springframework.data.domain.AuditorAware;
 import org.springframework.stereotype.Component;

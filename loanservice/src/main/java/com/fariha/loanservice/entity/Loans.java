@@ -1,4 +1,4 @@
-package com.fariha.loanservice.entity;
+package com.fariha.loans.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -1,7 +1,7 @@
-package com.fariha.loanservice.mapper;
+package com.fariha.loans.mapper;
 
-import com.fariha.loanservice.dto.LoansDto;
-import com.fariha.loanservice.entity.Loans;
+import com.fariha.loans.dto.LoansDto;
+import com.fariha.loans.entity.Loans;
 
 public class LoansMapper {
 

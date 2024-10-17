@@ -1,6 +1,6 @@
-package com.fariha.loanservice.repository;
+package com.fariha.loans.repository;
 
-import com.fariha.loanservice.entity.Loans;
+import com.fariha.loans.entity.Loans;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

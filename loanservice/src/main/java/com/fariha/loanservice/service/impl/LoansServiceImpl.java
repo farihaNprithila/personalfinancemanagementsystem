@@ -1,13 +1,13 @@
-package com.fariha.loanservice.service.impl;
+package com.fariha.loans.service.impl;
 
-import com.fariha.loanservice.constants.LoansConstants;
-import com.fariha.loanservice.dto.LoansDto;
-import com.fariha.loanservice.entity.Loans;
-import com.fariha.loanservice.exception.LoanAlreadyExistsException;
-import com.fariha.loanservice.exception.ResourceNotFoundException;
-import com.fariha.loanservice.mapper.LoansMapper;
-import com.fariha.loanservice.repository.LoansRepository;
-import com.fariha.loanservice.service.ILoansService;
+import com.fariha.loans.constants.LoansConstants;
+import com.fariha.loans.dto.LoansDto;
+import com.fariha.loans.entity.Loans;
+import com.fariha.loans.exception.LoanAlreadyExistsException;
+import com.fariha.loans.exception.ResourceNotFoundException;
+import com.fariha.loans.mapper.LoansMapper;
+import com.fariha.loans.repository.LoansRepository;
+import com.fariha.loans.service.ILoansService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

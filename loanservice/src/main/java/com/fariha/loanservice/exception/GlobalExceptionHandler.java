@@ -1,6 +1,6 @@
-package com.fariha.loanservice.exception;
+package com.fariha.loans.exception;
 
-import com.fariha.loanservice.dto.ErrorResponseDto;
+import com.fariha.loans.dto.ErrorResponseDto;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;
